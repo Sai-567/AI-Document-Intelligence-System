@@ -1,0 +1,15 @@
+streamlit
+pdfplumber
+python-docx
+pytesseract
+Pillow
+opencv-python
+scikit-learn
+transformers
+langchain
+sentence-transformers
+elasticsearch
+pandas
+numpy
+nltk
+rapidfuzz
