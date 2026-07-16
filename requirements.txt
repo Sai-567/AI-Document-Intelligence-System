@@ -1,5 +1,5 @@
 streamlit
-pymupdf
+pdfplumber
 python-docx
 easyocr
 pillow
